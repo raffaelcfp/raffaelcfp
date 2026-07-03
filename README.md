@@ -23,7 +23,6 @@ Most of my projects involve:
 * 📊 Numerical Analysis
 * 🧮 Scientific Computing
 * 🚀 Performance Optimization
-* 🤖 Automation and Data Processing
 
 ---
 
@@ -31,7 +30,7 @@ Most of my projects involve:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,git,linux" />
 
 </p>
 
@@ -53,7 +52,6 @@ Most of my projects involve:
 * Parallel Computing
 * High Performance Computing (HPC)
 * Mathematical Modeling
-* Computational Mechanics
 
 ---
 
@@ -71,10 +69,9 @@ Most of my projects involve:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,git,linux,cmake,bash,vscode,github" />
+<img src="https://skillicons.dev/icons?i=cpp,python,git,linux,bash,github" />
 
 </p>
-
 ---
 
 ## GitHub Statistics
